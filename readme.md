@@ -3,4 +3,4 @@ Olá, nesse projeto foi desenvolvido um sistema de reembolso utilizando JS para 
 
 ## Refund
 
-<img src="assets/capa-refund.png" title="Capa do projeto Refund">
+<img src="img/capa-refund.png" title="Capa do projeto Refund">
